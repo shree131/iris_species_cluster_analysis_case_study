@@ -18,6 +18,18 @@ By the end of the project, we reflect on the **limitations of K-means** for biol
 <img src='visuals/2_3_5_clustering_solution_sepal_features.png' alt='Clustering Solution Using Sepal Features' width='65%'>
 <img src='visuals/the_elbow_method.png' alt='Clustering Solution Using Sepal Features' width='65%'>
 
+## 📁 Project Structure
+
+```plaintext
+iris_species_cluster_analysis_case_study/
+├── dataset/
+│   └── iris-dataset.csv
+├── notebook/
+│   └── iris_species_segmentation.ipynb
+├── visuals/
+├── README.md
+```
+
 ### Key Takeaways:
 - The Elbow Method is useful, but **not always definitive** (e.g. suggests 2 or 5 clusters instead of the known 3).
 - Clustering on **petal features** better reflects the known biological categories.
@@ -27,3 +39,8 @@ By the end of the project, we reflect on the **limitations of K-means** for biol
 
 ### Next Steps:
 - We could now use logistic regression or classification using the known species labels for making prediction.
+
+
+
+---
+*© 2025 All rights are reserved.*
