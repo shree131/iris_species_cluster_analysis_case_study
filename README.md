@@ -21,7 +21,7 @@ By the end of the project, we reflect on the **limitations of K-means** for biol
 ## 📁 Project Structure
 
 ```plaintext
-iris_species_cluster_analysis_case_study/
+iris_species_k_means_clustering_case_study/
 ├── dataset/
 │   └── iris-dataset.csv
 ├── notebook/
